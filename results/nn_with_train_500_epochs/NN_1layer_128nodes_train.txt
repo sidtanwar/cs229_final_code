@@ -1,0 +1,13 @@
+Total Examples 100000
+Confusion Matrix:
+  
+43937     4158
+3491     48414
+  
+  
+Accuracy:  0.92351
+Recall:  0.926393691490259
+Precision:  0.9135461066638944
+  
+  
+Prevelence:  0.47428
